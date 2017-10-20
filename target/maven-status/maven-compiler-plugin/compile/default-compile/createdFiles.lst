@@ -1,0 +1,3 @@
+br/com/global/exception/NotFoundException.class
+br/com/global/exception/handler/GlobalExceptionHandler.class
+br/com/global/exception/erro/ExceptionResponse.class
