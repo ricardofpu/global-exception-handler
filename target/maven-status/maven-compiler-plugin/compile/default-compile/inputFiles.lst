@@ -1,3 +1,9 @@
 /home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/handler/GlobalExceptionHandler.java
-/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/erro/ExceptionResponse.java
+/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/utils/ValidationUtil.java
+/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/error/ResourceValueResponse.java
+/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/BusinessException.java
 /home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/NotFoundException.java
+/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/error/ErrorCode.java
+/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/error/ExceptionResponse.java
+/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/error/ResourceValue.java
+/home/ricardo/projects/global-exception-handler/code/global-exception-handler/src/main/java/br/com/rmb/global/exception/handler/ValidationExceptionHandler.java

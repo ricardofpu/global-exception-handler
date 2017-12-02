@@ -1,3 +1,9 @@
 br/com/rmb/global/exception/handler/GlobalExceptionHandler.class
+br/com/rmb/global/exception/error/ExceptionResponse.class
+br/com/rmb/global/exception/utils/ValidationUtil.class
+br/com/rmb/global/exception/error/ResourceValueResponse.class
+br/com/rmb/global/exception/handler/ValidationExceptionHandler.class
+br/com/rmb/global/exception/error/ErrorCode.class
+br/com/rmb/global/exception/BusinessException.class
+br/com/rmb/global/exception/error/ResourceValue.class
 br/com/rmb/global/exception/NotFoundException.class
-br/com/rmb/global/exception/erro/ExceptionResponse.class
